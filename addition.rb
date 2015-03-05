@@ -1,3 +1,4 @@
 fname="Nimalan"
-print "hi my name is " + fname
+lname="Manimaran"
+print "hi my name is " + fname + lname
 puts fname
